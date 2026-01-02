@@ -32,6 +32,9 @@ Detailed low-level code documentation and API specifications are intentionally e
 
 ## System Architecture Overview
 
+![SMILE5 Architecture](images/System-Architecture-Overview.webp)
+
+
 The SMILE platform is designed as a modular, cloud-native system consisting of frontend applications, backend services, and a real-time data pipeline.
 
 For detailed system architecture and deployment information, please refer to the **Cloud Infrastructure and Deployment** document.
@@ -39,6 +42,9 @@ For detailed system architecture and deployment information, please refer to the
 ---
 
 ## Technology Stack
+
+![Technology Stack](images/Technology-Stack.webp)
+
 
 | Layer | Technology / Framework | Description |
 |------|------------------------|-------------|
@@ -62,6 +68,7 @@ For detailed system architecture and deployment information, please refer to the
 
 ## Data Pipeline Architecture
 
+![Data Pipeline Architecture](images/Data-Pipeline-Architecture.webp)
 The SMILE data pipeline supports both batch and real-time data processing to enable dashboards and reporting services.
 
 For detailed data pipeline architecture and implementation, please refer to the **Data Streaming Mechanism** document.
