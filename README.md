@@ -32,7 +32,7 @@ Detailed low-level code documentation and API specifications are intentionally e
 
 ## System Architecture Overview
 
-![SMILE5 Architecture](images/System-Architecture-Overview.webp)
+![SMILE5 Architecture](images/System-Architecture.webp)
 
 
 The SMILE platform is designed as a modular, cloud-native system consisting of frontend applications, backend services, and a real-time data pipeline.
