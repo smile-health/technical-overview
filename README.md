@@ -52,17 +52,17 @@ For detailed system architecture and deployment information, please refer to the
 | Backend | Bun, Hono | Bun as backend runtime and Hono as backend framework |
 | Language Translation | Tolgee | Dynamic multi-language support based on user preference |
 | Mobile Frontend | React Native | Cross-platform mobile application development |
-| Database | MySQL (OLTP), ClickHouse (OLAP) | Transactional and analytical data processing |
+| Database | MySQL (OLTP), ClickHouse (OLAP) | MySQL for OLTP (Online Transaction Processing) and ClickHouse for OLAP (Online Analytical Processing). |
 | Authentication | Keycloak, OAuth2 | Identity and access management |
-| Data Pipeline | Pentaho, Debezium, Kafka, dbt, RisingWave | Data scheduling and real-time data streaming |
+| Data Pipeline | Debezium, Kafka, dbt, RisingWave | Data scheduling and real-time data streaming |
 | Dashboard | Metabase | Data visualisation and analytics |
-| Storage | MinIO | File storage, caching, and backup |
-| Monitoring | Prometheus, Elastic APM, Grafana, OpenTelemetry | Metrics, tracing, and observability |
+| Storage | MinIO, Amazon S3 | Storage caching, file storage, and backups in cloud or on-premises environments. |
+| Monitoring | Prometheus, Grafana, OpenTelemetry | Metrics, tracing, and observability |
 | Message Queue | RabbitMQ | Asynchronous messaging |
 | Cache | Redis | In-memory caching for performance optimisation |
 | Notification | Firebase | Email and WhatsApp notifications |
 | DevOps | Jenkins, GitLab | CI/CD automation |
-| Infrastructure | Kubernetes, Docker, AWS, Terraform, Ansible, OpenShift | Container orchestration and infrastructure management |
+| Infrastructure | Kubernetes, Docker, AWS, Terraform, Istio, Helm | Container orchestration and infrastructure management |
 
 ---
 
