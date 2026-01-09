@@ -68,7 +68,7 @@ For detailed system architecture and deployment information, please refer to the
 
 ## Data Pipeline Architecture
 
-![Data Pipeline Architecture](images/Data-Pipeline-Architecture.webp)
+![Data Pipeline Architecture](images/Data-Pipeline-Architecture-Update.png)
 The SMILE data pipeline supports both batch and real-time data processing to enable dashboards and reporting services.
 
 For detailed data pipeline architecture and implementation, please refer to the **Data Streaming Mechanism** document.
