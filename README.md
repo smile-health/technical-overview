@@ -43,7 +43,7 @@ For detailed system architecture and deployment information, please refer to the
 
 ## Technology Stack
 
-![Technology Stack](images/Technology-Stack.webp)
+![Technology Stack](images/Technology-Stack.png)
 
 
 | Layer | Technology / Framework | Description |
