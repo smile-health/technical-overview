@@ -52,7 +52,7 @@ For detailed system architecture and deployment information, please refer to the
 | Backend | Bun, Hono | Bun as backend runtime and Hono as backend framework |
 | Language Translation | Tolgee | Dynamic multi-language support based on user preference |
 | Mobile Frontend | React Native | Cross-platform mobile application development |
-| Database | MySQL (OLTP), ClickHouse (OLAP) | MySQL for OLTP (Online Transaction Processing) and ClickHouse for OLAP (Online Analytical Processing). |
+| Database | MySQL & MariaDB (OLTP), ClickHouse (OLAP) | MySQL for OLTP (Online Transaction Processing) and ClickHouse for OLAP (Online Analytical Processing). |
 | Authentication | Keycloak, OAuth2 | Identity and access management |
 | Data Pipeline | Debezium, Kafka, dbt, RisingWave | Data scheduling and real-time data streaming |
 | Dashboard | Metabase | Data visualisation and analytics |
