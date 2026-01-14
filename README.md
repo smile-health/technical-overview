@@ -1,7 +1,7 @@
 # SMILE Technical Overview
 
 ## Table of Contents
-- [Purpose](#purpose)
+- [About](#about)
 - [Scope](#scope)
 - [System Architecture Overview](#system-architecture-overview)
 - [Technology Stack](#technology-stack)
@@ -13,7 +13,7 @@
 
 ---
 
-## Purpose
+## About
 
 This document serves as a high-level technical reference for technical leads, developers, system integrators, and external evaluators. It provides an overview of SMILE’s architecture, technology stack, data pipeline, infrastructure, and operational considerations.
 
