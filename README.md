@@ -30,6 +30,14 @@ Detailed low-level code documentation and API specifications are intentionally e
 
 ---
 
+## SMILE Platform Components
+The diagram below illustrates different components that build up the SMILE 5.0 application. 
+The platform is an evolving architecture and gives the application the capability to be scalable, 
+interoperate with external applications and be reliable at the same time.
+![SMILE5 Platform](images/SMILE-Platform-Components.png)
+
+---
+
 ## System Architecture Overview
 
 ![SMILE5 Architecture](images/System-Architecture.webp)
